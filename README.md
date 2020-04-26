@@ -1,7 +1,5 @@
 # Airbnb_analysis
-CZ1015 Project 
-
-####################################################
+CZ1015 Introduction to Data Science & Artificial Intelligence Mini-Project 
 
 Team members:
 - Kevin
